@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# dont include input files
+advent-of-code-2021/inputs
+
 # dont include test files
 test.py
